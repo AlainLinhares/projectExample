@@ -8,6 +8,7 @@ namespace ProjectExample
         {
 
             var teste = "Hello World";
+            Console.WriteLine(teste);
         }
     }
 }
